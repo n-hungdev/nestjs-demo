@@ -10,7 +10,12 @@ const DB_PROVIDER = {
     host: 'localhost',
     database: 'postgres',
     password: 'matkhau',
-    port: 5432,
+    port:
+    
+    
+    
+    5432,
+     ssss */
   }),
 };
 
